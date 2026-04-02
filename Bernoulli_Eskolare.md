@@ -1,5 +1,9 @@
 # Bernoulli
 
+Maurício
+
+=================================
+
 ## Integração com plataforma Eskolare
 
 ### Já possuem
@@ -9,6 +13,7 @@
 
 ### Atenção
 1. Alta volumetria de requisições
+2. Financeiro é gerado previamente ao faturamento
 
 ### Propostas
 1. Tabela intermediária para receber requisições
