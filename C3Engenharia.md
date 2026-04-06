@@ -19,10 +19,10 @@ Principal cliente: PETROBRAS
 
 # Expectativa
 - Otimizar o processo de compras
-- Otimizar o processo de utilização (alocação)
-- Otimizar processo de cotação
-- Otimizar cadastro de Fornecedores
-- Otimizar cadastro de Produtos
+- Implantar o processo de utilização (alocação)
+- Implantar processo de cotação
+- Implantar cadastro de Fornecedores
+- Implantar cadastro de Produtos
 
 # AS IS
 - Entrada de Notas
@@ -47,4 +47,3 @@ Principal cliente: PETROBRAS
 - Gestão de Compras (Produtos)
 - Gestão de Compras (Serviços)
 - Cotação (Portal do Fornecedor)
-
