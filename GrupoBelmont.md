@@ -1,7 +1,7 @@
 # Grupo Belmont - 2026.06.07
 - Geovanne
 
-====================
+---
 
 ## Prévia de Contato
 - Fase inicial de uso do FLUIG
@@ -27,17 +27,25 @@
 ## Necessidade
 - Aprovação de Solicitações de Compras
 - Painel para acompanhamento/avaliação do processo de compras realizado
+- Apontamento diário de caminhões (*demanda futura*)
+  - Material agredado (brita e areia)
+  - Tempo de trabalho do equipamento
+  - Volume de material trabalhado
+- Controle de Pagamentos
 
 ## Expectativa
 - *Acesso rápido e fácil à todas as informações do processo de compras*
 - Através do FLUIG executar o processo de compras com alçadas de aprovação de compras
 - Disponibilização de informações para "auditoria" e validação de performance dos compradores/compras realizadas
+- Desenvolvimento de processo para controle de trabalho de caminhões
 
 ## Proposta
 - *Substituição do APP Meu PROTHEUS para o FLUIG*
 - Item 1 - Aprovação no FLUIG:
   - Operação (cadastros) realizados no PROTHEUS
   - PROTHEUS dispara integração com FLUIG inicializando um processo de aprovação
+  - Interface de cotação executada através do PROTHEUS
+  - Aprovação da SC e PC através do FLUIG, removendo o uso do APP Meu PROTHEUS
 - Item 2 - Interface/Processo no FLUIG:
   - Solicitação/Operação realizada no FLUIG
   - FLUIG dispara ativamente integrações com PROTHEUS para registro das informações
