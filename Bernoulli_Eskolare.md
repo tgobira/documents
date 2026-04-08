@@ -2,7 +2,7 @@
 
 Maurício
 
-=================================
+---
 
 ## Integração com plataforma Eskolare
 
