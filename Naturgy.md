@@ -2,7 +2,7 @@ NATURGY - 2026.04.01
 
 Marcella / Giovanna
 
-====================
+---
 
 # Implementações realizadas
 - Projeto MAIA desenvolvido no FLUIG
