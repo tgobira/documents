@@ -1,0 +1,27 @@
+# EMCCAMP - 2026.04.10
+
+Gustavo / Fernando - Supply / Anna Claudia / Arthur
+
+---
+
+## Projeto de Integração para Conciliação Bancária
+1. Fornecedor de Van Bancária - SUPPLY
+2. Fornecedor de integração bancária TOTVS - WeePulse
+3. Citada outra consultoria que já possui API para consulta e integração (GAIA Consult)
+  - GAIA já atua junto à EMCCAMP em outro projeto de integração
+
+## Ferramenta
+1. Possível a extração de dados através de arquivos (CNAB) ou API
+  - API com retorno de dados "personalizável"
+  - Estrutura demonstrada pela equipe da SUPPLY é intuitiva para identificação
+2. Informações podem ser moldadas com base na necessidade do cliente
+  - Possibilidade de uso de campos complementares/adicionais para tomada de decisão
+3. Limitações operacionais com base na instituição financeira
+  - Ex.: CAIXA tem limitações sobre disponibilização de dados (normalmente D-1)
+  - ITAU tem possibilidades de comunicação de dados "quentes"
+  - Importante que os dados serão trabalhados e disponibilizados também através da Interface da própria aplicação
+
+## Proposta
+1. Desenvolvimento de API Integradora que consuma dados da plataforma Supply
+2. Proposta já comercializada com cliente contempla integração via ARQUIVO
+  - Caso seja de interesse do cliente, necessidade de retificar o escopo para uso de API
