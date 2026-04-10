@@ -62,7 +62,7 @@ Talita / Thierny / Yuri / Svizzero / Maurício
 - Integração assíncrona
     - Rotina da WorkNow é agendada (JOB configurável)
 - Eskolare disponibiliza as APIs para comunicação de dados. Ela não aciona o TOTVS
-- Toda integração foi desenvolvida diretamente pela WorkNow, integrando o TOTVS com Eskolare
+- Toda integração foi desenvolvida diretamente pela WorkNow, integrando o TOTVS com Eskolare (TOTVS > Eskolare *SEMRPE*)
     - Existe publicado dentro do TOTVS área de parametrização base para integração do TOTVS com Eskolare
     - Não é executada integração de entidades educacionais
     - É executado somente integração do BackOffice (Pedidos)
@@ -76,5 +76,9 @@ Talita / Thierny / Yuri / Svizzero / Maurício
         - Conciliação realizada gerando lançamentos no TOTVS para equalização
         - Extratificação de todo transacionamento financeiro para sensibilização do financeiro do TOTVS (recebimento - venda, pagamento - taxas e devoluções)
         - Lançamento financeiro gerado a partir do movimento 2.2.40 (Emissão de NF)
+            - Baixa é realizada (e parcelamento) é executado pela integração
+        - Lançamento de taxa e devolução são identificadas através do extrato
     - Estrutura de integração do pedido já contempla dados de CLIENTE. Essa informação é interpretada para tomada de decisão sobre a criação de novo cliente ou atualização de cliente existente
-    - 
+- Charge Back (venda contestada pelo comprador) não contemplado pela integração desenvolvida
+    - Ferramenta Eskolare já possui interface para interpretação do Charge Back
+    - Configuração no TOTVS para identificação do Charge Back em agrupamentos específicos
