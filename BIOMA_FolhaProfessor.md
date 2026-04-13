@@ -30,15 +30,15 @@ Marcelo / Roberta / Jorge / Beatriz
   - Definir conjunto à equipe da BIOMA sobre a realidade opereacional das insituições educacionais que estarão sendo abordados 
 
 ## Expectativa
-- Configuração de coligada piloto para implementação e operação
+- **Configuração de coligada piloto para implementação e operação**
 - Construção de aceleradores para dinamizar e otimizar o trabalho de preenchimento e funcionamento da implementação da ferramenta
-- Utilzação de uma escola piloto que tenha complexidade de intermediária para utilização da ferramenta
+- *Utilzação de uma escola piloto que tenha complexidade de intermediária para utilização da ferramenta*
   - Já possuem um direcionamento sobre qual instituição de ensino será utilizada (UE é uma filial)
   - Processo de reprogramação salarial permite e construção de filtros para identiifcação dos colaboradores que serão executados
 - Separação de atividades do projeto para atuar em 2 frentes sequenciais
   - Estrutura de cálculo correto de salário composto do professor
   - Estrutura da folha de cálculo dinâmico
-- Relatório de conferência da folha do Professor demonstrando proventos e descontos de acordo com operação educacional realizada
+- **Relatório de conferência da folha do Professor demonstrando proventos e descontos de acordo com operação educacional realizada**
   - Ex.: provento de aula, provento de atividade complementar, provento de
   - Holerite do professor com as respectivas descrições de proventos e descontos
 - Propor padronização operacional Educacional e da Folha de forma a tornar prático a operacionalização da rotina (tanto p/ área educacional quanto p/ DP)
